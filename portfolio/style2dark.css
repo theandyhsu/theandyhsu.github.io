@@ -932,7 +932,7 @@ pre {
     display: block !important;
     margin-top: 2rem !important; } }
 
-.desktop-nav {
+/* .desktop-nav {
   max-width: 1440px !important;
   margin: 0 auto !important;
   text-align: right !important;
@@ -1098,7 +1098,7 @@ pre {
             font-size: 2.25rem !important;
             margin-bottom: 0.65rem !important;
             color: #F7F6FB !important; }
-
+ */
 @-webkit-keyframes fadeInTop {
   0% {
     opacity: 0;
