@@ -1359,9 +1359,9 @@ pre {
   .notion-collection .notion-collection-table__cell .notion-link:hover {
     color: #F36163 !important; }
 
-/* .super-badge,
+.super-badge,
 .notion-navbar,
 .notion-header,
 .notion-header__content,
 .notion-divider {
-  display: none !important; } */
+  display: none !important; }
