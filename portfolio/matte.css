@@ -199,7 +199,7 @@ font-size:1.725rem!important
 }
 h3,h3.notion-heading{
 font-size:1.1875rem!important;
-letter-spacing:.1rem!important
+letter-spacing:.05rem!important
 }
 .notion-caption{
 color:var(--text-color)!important
